@@ -5,9 +5,6 @@ const priorities = {
         $('select').material_select();
     },
     selectColor(e){
-      if(e.target.val() === '1'){
-          console.log('red');
-      }
       
     }
 }
